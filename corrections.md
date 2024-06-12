@@ -1,0 +1,1 @@
+you have successfully created a Vue project, but there are several things missing, there isn't any component aside from App.vue & there is no v-for loop, if you have any problems working with vue you can ask me and we'll see them:)
